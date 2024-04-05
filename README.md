@@ -1,2 +1,2 @@
 # general
-hellogit status
+hello git status
